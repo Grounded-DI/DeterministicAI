@@ -10,9 +10,7 @@ The artifact remains useful for establishing authorship, terminology, chronology
 
 ## Repository scope
 
-This repository preserves the dated declaration and its public provenance. It is intentionally a compact historical archive containing the README and source PDF; it is not intended to be a complete implementation snapshot.
-
-Current implementation, testing, replay, and certificate materials are maintained separately where applicable in the broader Grounded DI development record. Questions about current runtime behavior, measured entropy, or independent verification should be evaluated against the corresponding implementation and evidence artifacts rather than this historical declaration alone.
+This compact archive preserves the dated declaration and its public provenance. For current runtime behavior, measured entropy, and replay results, consult the corresponding Grounded DI implementation and evidence records.
 
 ## Record status
 
